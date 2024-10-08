@@ -1,0 +1,24 @@
+# environment 
+.env
+
+# Build outputs
+bin/
+obj/
+
+# User-specific and IDE settings
+*.user
+.vscode/
+.idea/
+.vs/
+
+# Logs and package directories
+*.log
+node_modules/
+dist/
+
+# ASP.NET and Blazor specific
+wwwroot/
+appsettings*.json
+
+# OS specific
+.DS_Store
